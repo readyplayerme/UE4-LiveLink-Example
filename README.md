@@ -44,9 +44,9 @@ Now lets open the Event Graph, here you can see how we get the head rotation dat
 
 ## Links
 **Ready Player Me Unreal SDK**
-- [Documentation](https://link-url-here.org)
+- [Documentation](https://docs.readyplayer.me/ready-player-me/integration-guides/unreal-engine-4)
 - [Download](https://docs.readyplayer.me/ready-player-me/integration-guides/unreal-engine-4/unreal-plugin-download)
-- [Support](mailto:support@wolf3d.io)
+- [Support](https://docs.readyplayer.me/ready-player-me/integration-guides/unreal-engine-4/troubleshooting)
 
 **glTFRuntime**
 - [Documentation](https://github.com/rdeioris/glTFRuntime-docs/blob/master/README.md)
