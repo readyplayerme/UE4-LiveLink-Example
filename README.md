@@ -37,3 +37,16 @@ In the next group of nodes we apply the head rotation using local yaw, pitch, ro
 Now lets open the Event Graph, here you can see how we get the head rotation data from the LiveLink plugin. First we retrieve the data using the Evaluate Live Link Frame node. Then we get the property for `headYaw`, `headPitch`, `headRoll` and assign them to the local variables `HeadYaw`, `HeadPitch`, `HeadRoll`. We created these local variables so that we can store the rotation information to later use it in the AnimGraph as mentioned in the previous section.
 
 ![img-head-rotation](https://user-images.githubusercontent.com/7085672/164033094-d5300322-fec4-4175-8fab-af54ce032078.png)
+
+## Dependencies
+- Ready Player Me Unreal SDK 
+- glTFRuntime (Third party plugin)
+
+## Links
+**Ready Player Me Unreal SDK**
+- [Documentation](https://docs.readyplayer.me/ready-player-me/integration-guides/unreal-engine-4)
+- [Download](https://docs.readyplayer.me/ready-player-me/integration-guides/unreal-engine-4/unreal-plugin-download)
+- [Support](https://docs.readyplayer.me/ready-player-me/integration-guides/unreal-engine-4/troubleshooting)
+
+**glTFRuntime**
+- [Documentation](https://github.com/rdeioris/glTFRuntime-docs/blob/master/README.md)
