@@ -1,3 +1,8 @@
+# This Project Will Not Be Maintained
+
+We unified all UE5 example projects into one project to make it easier for developers and reduce the amount of maintenance work.
+To get up-to-date examples use [Unreal Examples](https://github.com/readyplayerme/UnrealExamples) project instead.
+
 # Ready Player Me UE4 Live Link Example
 
 ![img-livelink-sample](https://user-images.githubusercontent.com/7085672/164030100-8063b64f-2162-4abf-a642-0193964ab04c.png)
